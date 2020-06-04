@@ -10,5 +10,5 @@ This regex script enables quick searching for CCF class A literatures.
 
 ## FAQ
 
-1. Q: `case_insensitive.txt`在`Chrome Regex Search`报错。  
-A: 改为使用`case_sensitive.txt`。
+1. ~~Q: `case_insensitive.txt`在`Chrome Regex Search`报错。  
+A: 改为使用`case_sensitive.txt`。~~
